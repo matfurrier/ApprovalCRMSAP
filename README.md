@@ -30,17 +30,17 @@ Este aplicativo foi criado para facilitar o processo de aprovação de pedidos n
 1. **Pedidos de Aprovação**:
    - Na tela inicial, temos todos os pedidos que foram inseridos pelo SAP ou CRM
    - Os pedidos podem estar em três estados: Pendente, Aprovado ou Rejeitado.
-![principal](https://github.com/matfurrier/ApprovalCRMSAP/assets/30526394/cc6ac30f-6709-4d52-947c-412469048584)
+![principal (1)](https://github.com/matfurrier/ApprovalCRMSAP/assets/30526394/8074c994-fc6a-4983-beb1-d18b1df54fc0)
 
 2. **Detalhes dos Pedidos** :
    - Neste componente que se abre, você tem uma visão mais abrangente do item.
    - Você pode ver todos os detalhes e tomar uma decisão de aprovação ou rejeição.
-![detalhes](https://github.com/matfurrier/ApprovalCRMSAP/assets/30526394/82cf75c6-a9e0-4c56-8cce-b034594400df)
+![detalhes (1)](https://github.com/matfurrier/ApprovalCRMSAP/assets/30526394/35184e5f-44a8-437f-bc7b-05fbdc039c23)
 
 3. **Notificações por E-mail**:
    - Receba notificações por e-mail sempre que o status de um pedido mudar.
    - As notificações por e-mail incluem detalhes do pedido e informações sobre quem aprovou ou rejeitou o pedido.
-![email](https://github.com/matfurrier/ApprovalCRMSAP/assets/30526394/7e99754e-9d1e-4180-a139-65a7266acf67)
+![email (1)](https://github.com/matfurrier/ApprovalCRMSAP/assets/30526394/19ccc923-2fd0-4fbf-8c5e-876bb0ee9dcc)
 
 ## Como Contribuir 👥
 Valorizamos a contribuição da comunidade para aprimorar a segurança e eficácia da assinatura digital. Se você tiver sugestões, melhorias ou encontrar problemas, fique à vontade para abrir uma [issue](https://github.com/matfurrier/ApprovalsSAP/issues) ou enviar um pull request. Seu feedback é bem-vindo!
