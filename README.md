@@ -1,4 +1,5 @@
 # Sistema de Aprovações SAP 🚀
+![sapapprovals](https://github.com/matfurrier/ApprovalCRMSAP/assets/30526394/60f70188-2a09-4094-8e96-5e4fb04cea61)
 
 Este repositório contém a implementação de um sistema de aprovações automatizado integrado com o SAP/CRM. Permite aos usuários enviar pedidos de aprovação e visualizar o status de suas solicitações em tempo real.
 
